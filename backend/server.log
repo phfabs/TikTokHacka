@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/zayan/Orbital-TeamYiZ/backend/app.py", line 8, in <module>
+    from backend.auth.routes import auth_bp
+ModuleNotFoundError: No module named 'backend'
